@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 document.addEventListener("DOMContentLoaded", () => {
-    const textElement = document.querySelector('.RnVja3lvdQ==');
+    const textElement = document.querySelector('.RnVja3lvdQ');
     const texts = [
         "SBH",
         "S B H",
